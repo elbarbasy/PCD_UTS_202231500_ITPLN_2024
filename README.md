@@ -1,4 +1,3 @@
-
 # PROJECT UTS CITRA DIGITAL 2024
 NAMA : Muhammad Amrizal
 NIM : 202231500
@@ -8,21 +7,6 @@ Langkah Pertama kita import library yang dibutuhkan seperti code dibawah ini :
 
 ```
 import cv2
-
-```
-
-# PROJECT UTS CITRA DIGITAL 2024
-NAMA : Muhammad Amrizal
-NIM : 202231500
-
-## 1.DETEKSI WARNA PADA CITRA
-Langkah Pertama kita import library yang dibutuhkan seperti code dibawah ini :
-
-```
-import cv2
-
-```
-``` 
 import cv2 
 numpy as np
 import matplotlib.pyplot as plt 
